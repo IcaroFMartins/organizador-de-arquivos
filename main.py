@@ -2,6 +2,7 @@ from file_organizer import organizar_pasta
 
 
 def main():
+    print("=" * 30)
     print("Organizador de Arquivos")
     print("=" * 30)
 
